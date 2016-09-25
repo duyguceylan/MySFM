@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "136cb33c-db0e-4637-9767-7ef5e69c3582++8366",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "136cb33c-db0e-4637-9767-7ef5e69c3582++8366" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "136cb33c-db0e-4637-9767-7ef5e69c3582++8366" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "152A59AF-BDBE-439F-B755-D36AA72DCBBD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "136cb33c-db0e-4637-9767-7ef5e69c3582++8366" : "BundlerTrackViewer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BundlerTrackViewer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BundlerTrackViewer\/BundlerTrackViewer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.epfl.ch\/svn\/mvs3d",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "136cb33c-db0e-4637-9767-7ef5e69c3582++8366"
+    }
+  ]
+}
